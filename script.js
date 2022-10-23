@@ -68,4 +68,4 @@ function restart() {
   
   play.addEventListener("click", start);
  pause.addEventListener("click", stop);
-//   resetButton.addEventListener("click", reset);
+ resetButton.addEventListener("click", restart);
